@@ -1,0 +1,28 @@
+name: Kintsugi Advisors
+favicon: null
+layout_spectrum: 0.5598912942223251
+typography_spectrum: 0.9585294567514211
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.3128801404964179
+  lightness: 0.2715400066226721
+  saturation: 0.7577031208202243
+  rhythmicContrast: 0.35292733111418784
+purpose: []
